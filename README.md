@@ -29,7 +29,9 @@ pooling used- Max and Average
 
 dropout=0.5
 
-Activation -relu
+Activation -
+
+*model accuracy*= 57.17
 
 
 
